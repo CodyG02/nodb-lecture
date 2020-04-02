@@ -32,7 +32,7 @@ class Finder extends Component {
     })
 
     return (
-      <div className="finder">
+      <div className="finder"> 
         {wildPokemon}
       </div>
     )
